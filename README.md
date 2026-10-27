@@ -1,7 +1,7 @@
 # Nikon Picture Control Comparison
 
 The same scene rendered through every Nikon Picture Control, one JPEG per
-preset per scene. 146 presets across 3 scenes — GolfCourseSunrise, GoreyCastle, GrouvilleSunrise —
+preset per scene. 146 presets across 4 scenes — GolfCourseSunrise, GoreyCastle, GrouvilleSunrise, GrouvilleSunrise_02 —
 so each look can be judged across different light.
 
 Includes Nikon's built-in controls (numbered and lettered, e.g. `[01] Dream`,
@@ -29,6 +29,7 @@ manifest.json     generated index: presets × scenes
 GolfCourseSunrise/
 GoreyCastle/
 GrouvilleSunrise/
+GrouvilleSunrise_02/
 ```
 
 ## Rebuilding

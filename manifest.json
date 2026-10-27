@@ -11,6 +11,10 @@
   {
    "id": "grouvillesunrise",
    "name": "GrouvilleSunrise"
+  },
+  {
+   "id": "grouvillesunrise-02",
+   "name": "GrouvilleSunrise_02"
   }
  ],
  "presets": [
@@ -20,7 +24,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BSD%5D%20Standard.JPG",
     "goreycastle": "GoreyCastle/%5BSD%5D%20Standard.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BSD%5D%20Standard.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BSD%5D%20Standard.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BSD%5D%20Standard.JPG"
    }
   },
   {
@@ -29,7 +34,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/24Look_24Frames.JPG",
     "goreycastle": "GoreyCastle/24Look_24Frames.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/24Look_24Frames.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/24Look_24Frames.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/24Look_24Frames.JPG"
    }
   },
   {
@@ -38,7 +44,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B01%5D%20Dream.JPG",
     "goreycastle": "GoreyCastle/%5B01%5D%20Dream.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B01%5D%20Dream.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B01%5D%20Dream.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B01%5D%20Dream.JPG"
    }
   },
   {
@@ -47,7 +54,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B02%5D%20Morning.JPG",
     "goreycastle": "GoreyCastle/%5B02%5D%20Morning.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B02%5D%20Morning.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B02%5D%20Morning.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B02%5D%20Morning.JPG"
    }
   },
   {
@@ -56,7 +64,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B03%5D%20Pop.JPG",
     "goreycastle": "GoreyCastle/%5B03%5D%20Pop.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B03%5D%20Pop.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B03%5D%20Pop.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B03%5D%20Pop.JPG"
    }
   },
   {
@@ -65,7 +74,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B04%5D%20Sunday.JPG",
     "goreycastle": "GoreyCastle/%5B04%5D%20Sunday.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B04%5D%20Sunday.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B04%5D%20Sunday.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B04%5D%20Sunday.JPG"
    }
   },
   {
@@ -74,7 +84,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B05%5D%20Somber.JPG",
     "goreycastle": "GoreyCastle/%5B05%5D%20Somber.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B05%5D%20Somber.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B05%5D%20Somber.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B05%5D%20Somber.JPG"
    }
   },
   {
@@ -83,7 +94,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B06%5D%20Dramatic.JPG",
     "goreycastle": "GoreyCastle/%5B06%5D%20Dramatic.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B06%5D%20Dramatic.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B06%5D%20Dramatic.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B06%5D%20Dramatic.JPG"
    }
   },
   {
@@ -92,7 +104,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B07%5D%20Silence.JPG",
     "goreycastle": "GoreyCastle/%5B07%5D%20Silence.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B07%5D%20Silence.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B07%5D%20Silence.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B07%5D%20Silence.JPG"
    }
   },
   {
@@ -101,7 +114,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B08%5D%20Bleached.JPG",
     "goreycastle": "GoreyCastle/%5B08%5D%20Bleached.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B08%5D%20Bleached.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B08%5D%20Bleached.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B08%5D%20Bleached.JPG"
    }
   },
   {
@@ -110,7 +124,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B09%5D%20Melancholic.JPG",
     "goreycastle": "GoreyCastle/%5B09%5D%20Melancholic.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B09%5D%20Melancholic.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B09%5D%20Melancholic.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B09%5D%20Melancholic.JPG"
    }
   },
   {
@@ -119,7 +134,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B10%5D%20Pure.JPG",
     "goreycastle": "GoreyCastle/%5B10%5D%20Pure.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B10%5D%20Pure.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B10%5D%20Pure.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B10%5D%20Pure.JPG"
    }
   },
   {
@@ -128,7 +144,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B11%5D%20Denim.JPG",
     "goreycastle": "GoreyCastle/%5B11%5D%20Denim.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B11%5D%20Denim.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B11%5D%20Denim.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B11%5D%20Denim.JPG"
    }
   },
   {
@@ -137,7 +154,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B12%5D%20Toy.JPG",
     "goreycastle": "GoreyCastle/%5B12%5D%20Toy.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B12%5D%20Toy.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B12%5D%20Toy.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B12%5D%20Toy.JPG"
    }
   },
   {
@@ -146,7 +164,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B13%5D%20Sepia.JPG",
     "goreycastle": "GoreyCastle/%5B13%5D%20Sepia.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B13%5D%20Sepia.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B13%5D%20Sepia.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B13%5D%20Sepia.JPG"
    }
   },
   {
@@ -155,7 +174,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B14%5D%20Blue.JPG",
     "goreycastle": "GoreyCastle/%5B14%5D%20Blue.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B14%5D%20Blue.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B14%5D%20Blue.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B14%5D%20Blue.JPG"
    }
   },
   {
@@ -164,7 +184,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B15%5D%20Red.JPG",
     "goreycastle": "GoreyCastle/%5B15%5D%20Red.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B15%5D%20Red.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B15%5D%20Red.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B15%5D%20Red.JPG"
    }
   },
   {
@@ -173,7 +194,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B16%5D%20Pink.JPG",
     "goreycastle": "GoreyCastle/%5B16%5D%20Pink.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B16%5D%20Pink.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B16%5D%20Pink.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B16%5D%20Pink.JPG"
    }
   },
   {
@@ -182,7 +204,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B17%5D%20Charcoal.JPG",
     "goreycastle": "GoreyCastle/%5B17%5D%20Charcoal.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B17%5D%20Charcoal.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B17%5D%20Charcoal.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B17%5D%20Charcoal.JPG"
    }
   },
   {
@@ -191,7 +214,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B18%5D%20Graphite.JPG",
     "goreycastle": "GoreyCastle/%5B18%5D%20Graphite.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B18%5D%20Graphite.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B18%5D%20Graphite.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B18%5D%20Graphite.JPG"
    }
   },
   {
@@ -200,7 +224,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B19%5D%20Binary.JPG",
     "goreycastle": "GoreyCastle/%5B19%5D%20Binary.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B19%5D%20Binary.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B19%5D%20Binary.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B19%5D%20Binary.JPG"
    }
   },
   {
@@ -209,7 +234,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5B20%5D%20Carbon.JPG",
     "goreycastle": "GoreyCastle/%5B20%5D%20Carbon.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5B20%5D%20Carbon.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5B20%5D%20Carbon.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5B20%5D%20Carbon.JPG"
    }
   },
   {
@@ -218,7 +244,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BA%5D%20Auto.JPG",
     "goreycastle": "GoreyCastle/%5BA%5D%20Auto.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BA%5D%20Auto.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BA%5D%20Auto.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BA%5D%20Auto.JPG"
    }
   },
   {
@@ -227,7 +254,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BDM%5D%20Deep%20Tone%20Monochrome.JPG",
     "goreycastle": "GoreyCastle/%5BDM%5D%20Deep%20Tone%20Monochrome.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BDM%5D%20Deep%20Tone%20Monochrome.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BDM%5D%20Deep%20Tone%20Monochrome.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BDM%5D%20Deep%20Tone%20Monochrome.JPG"
    }
   },
   {
@@ -236,7 +264,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BFC%5D%20Flexible%20Color.JPG",
     "goreycastle": "GoreyCastle/%5BFC%5D%20Flexible%20Color.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BFC%5D%20Flexible%20Color.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BFC%5D%20Flexible%20Color.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BFC%5D%20Flexible%20Color.JPG"
    }
   },
   {
@@ -245,7 +274,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BFL%5D%20Flat.JPG",
     "goreycastle": "GoreyCastle/%5BFL%5D%20Flat.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BFL%5D%20Flat.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BFL%5D%20Flat.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BFL%5D%20Flat.JPG"
    }
   },
   {
@@ -254,7 +284,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BFM%5D%20Flat%20Monochrome.JPG",
     "goreycastle": "GoreyCastle/%5BFM%5D%20Flat%20Monochrome.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BFM%5D%20Flat%20Monochrome.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BFM%5D%20Flat%20Monochrome.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BFM%5D%20Flat%20Monochrome.JPG"
    }
   },
   {
@@ -263,7 +294,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BLS%5D%20Landscape.JPG",
     "goreycastle": "GoreyCastle/%5BLS%5D%20Landscape.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BLS%5D%20Landscape.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BLS%5D%20Landscape.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BLS%5D%20Landscape.JPG"
    }
   },
   {
@@ -272,7 +304,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BMC%5D%20Monochrome.JPG",
     "goreycastle": "GoreyCastle/%5BMC%5D%20Monochrome.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BMC%5D%20Monochrome.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BMC%5D%20Monochrome.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BMC%5D%20Monochrome.JPG"
    }
   },
   {
@@ -281,7 +314,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BNL%5D%20Neutral.JPG",
     "goreycastle": "GoreyCastle/%5BNL%5D%20Neutral.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BNL%5D%20Neutral.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BNL%5D%20Neutral.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BNL%5D%20Neutral.JPG"
    }
   },
   {
@@ -290,7 +324,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BPT%5D%20Portrait.JPG",
     "goreycastle": "GoreyCastle/%5BPT%5D%20Portrait.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BPT%5D%20Portrait.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BPT%5D%20Portrait.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BPT%5D%20Portrait.JPG"
    }
   },
   {
@@ -299,7 +334,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BRP%5D%20Rich%20Tone%20Portrait.JPG",
     "goreycastle": "GoreyCastle/%5BRP%5D%20Rich%20Tone%20Portrait.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BRP%5D%20Rich%20Tone%20Portrait.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BRP%5D%20Rich%20Tone%20Portrait.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BRP%5D%20Rich%20Tone%20Portrait.JPG"
    }
   },
   {
@@ -308,7 +344,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/%5BVI%5D%20Vivid.JPG",
     "goreycastle": "GoreyCastle/%5BVI%5D%20Vivid.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/%5BVI%5D%20Vivid.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/%5BVI%5D%20Vivid.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/%5BVI%5D%20Vivid.JPG"
    }
   },
   {
@@ -317,7 +354,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Agfa%20Optima.JPG",
     "goreycastle": "GoreyCastle/Agfa%20Optima.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Agfa%20Optima.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Agfa%20Optima.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Agfa%20Optima.JPG"
    }
   },
   {
@@ -326,7 +364,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/AirGreen_Gunji.JPG",
     "goreycastle": "GoreyCastle/AirGreen_Gunji.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/AirGreen_Gunji.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/AirGreen_Gunji.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/AirGreen_Gunji.JPG"
    }
   },
   {
@@ -335,7 +374,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/At%20Dusk_Woo.JPG",
     "goreycastle": "GoreyCastle/At%20Dusk_Woo.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/At%20Dusk_Woo.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/At%20Dusk_Woo.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/At%20Dusk_Woo.JPG"
    }
   },
   {
@@ -344,7 +384,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/BleachBlue_Aparupa.JPG",
     "goreycastle": "GoreyCastle/BleachBlue_Aparupa.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/BleachBlue_Aparupa.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/BleachBlue_Aparupa.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/BleachBlue_Aparupa.JPG"
    }
   },
   {
@@ -353,7 +394,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Bluegrain_jyota.JPG",
     "goreycastle": "GoreyCastle/Bluegrain_jyota.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Bluegrain_jyota.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Bluegrain_jyota.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Bluegrain_jyota.JPG"
    }
   },
   {
@@ -362,7 +404,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/BlueHour_Luna.JPG",
     "goreycastle": "GoreyCastle/BlueHour_Luna.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/BlueHour_Luna.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/BlueHour_Luna.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/BlueHour_Luna.JPG"
    }
   },
   {
@@ -371,7 +414,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/BlueM_LUIZCLAS.JPG",
     "goreycastle": "GoreyCastle/BlueM_LUIZCLAS.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/BlueM_LUIZCLAS.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/BlueM_LUIZCLAS.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/BlueM_LUIZCLAS.JPG"
    }
   },
   {
@@ -380,7 +424,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/BohoLook_EmilieH.JPG",
     "goreycastle": "GoreyCastle/BohoLook_EmilieH.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/BohoLook_EmilieH.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/BohoLook_EmilieH.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/BohoLook_EmilieH.JPG"
    }
   },
   {
@@ -389,7 +434,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/BritFilmBW_Vincent.JPG",
     "goreycastle": "GoreyCastle/BritFilmBW_Vincent.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/BritFilmBW_Vincent.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/BritFilmBW_Vincent.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/BritFilmBW_Vincent.JPG"
    }
   },
   {
@@ -398,7 +444,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CafeCat_yw.JPG",
     "goreycastle": "GoreyCastle/CafeCat_yw.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CafeCat_yw.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CafeCat_yw.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CafeCat_yw.JPG"
    }
   },
   {
@@ -407,7 +454,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CallItLove_Faloo%20Mi.JPG",
     "goreycastle": "GoreyCastle/CallItLove_Faloo%20Mi.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CallItLove_Faloo%20Mi.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CallItLove_Faloo%20Mi.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CallItLove_Faloo%20Mi.JPG"
    }
   },
   {
@@ -416,7 +464,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CalmBreeze_Dondre.JPG",
     "goreycastle": "GoreyCastle/CalmBreeze_Dondre.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CalmBreeze_Dondre.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CalmBreeze_Dondre.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CalmBreeze_Dondre.JPG"
    }
   },
   {
@@ -425,7 +474,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Catgrain_yw.JPG",
     "goreycastle": "GoreyCastle/Catgrain_yw.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Catgrain_yw.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Catgrain_yw.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Catgrain_yw.JPG"
    }
   },
   {
@@ -434,7 +484,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineAchromic.JPG",
     "goreycastle": "GoreyCastle/CineAchromic.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineAchromic.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineAchromic.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineAchromic.JPG"
    }
   },
   {
@@ -443,7 +494,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineBias-BB.JPG",
     "goreycastle": "GoreyCastle/CineBias-BB.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineBias-BB.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineBias-BB.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineBias-BB.JPG"
    }
   },
   {
@@ -452,7 +504,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineBias-C.JPG",
     "goreycastle": "GoreyCastle/CineBias-C.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineBias-C.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineBias-C.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineBias-C.JPG"
    }
   },
   {
@@ -461,7 +514,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineBias-CC.JPG",
     "goreycastle": "GoreyCastle/CineBias-CC.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineBias-CC.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineBias-CC.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineBias-CC.JPG"
    }
   },
   {
@@ -470,7 +524,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineBias-T.JPG",
     "goreycastle": "GoreyCastle/CineBias-T.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineBias-T.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineBias-T.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineBias-T.JPG"
    }
   },
   {
@@ -479,7 +534,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineBias-TC.JPG",
     "goreycastle": "GoreyCastle/CineBias-TC.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineBias-TC.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineBias-TC.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineBias-TC.JPG"
    }
   },
   {
@@ -488,7 +544,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineBias-WC.JPG",
     "goreycastle": "GoreyCastle/CineBias-WC.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineBias-WC.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineBias-WC.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineBias-WC.JPG"
    }
   },
   {
@@ -497,7 +554,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineBias_RED.JPG",
     "goreycastle": "GoreyCastle/CineBias_RED.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineBias_RED.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineBias_RED.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineBias_RED.JPG"
    }
   },
   {
@@ -506,7 +564,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineBiasOffset.JPG",
     "goreycastle": "GoreyCastle/CineBiasOffset.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineBiasOffset.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineBiasOffset.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineBiasOffset.JPG"
    }
   },
   {
@@ -515,7 +574,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineBlue_BrandonW.JPG",
     "goreycastle": "GoreyCastle/CineBlue_BrandonW.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineBlue_BrandonW.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineBlue_BrandonW.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineBlue_BrandonW.JPG"
    }
   },
   {
@@ -524,7 +584,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CineM_LUIZCLAS.JPG",
     "goreycastle": "GoreyCastle/CineM_LUIZCLAS.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CineM_LUIZCLAS.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CineM_LUIZCLAS.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CineM_LUIZCLAS.JPG"
    }
   },
   {
@@ -533,7 +594,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CINENigRed_Fuji.JPG",
     "goreycastle": "GoreyCastle/CINENigRed_Fuji.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CINENigRed_Fuji.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CINENigRed_Fuji.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CINENigRed_Fuji.JPG"
    }
   },
   {
@@ -542,7 +604,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CloudyForest_Y2.JPG",
     "goreycastle": "GoreyCastle/CloudyForest_Y2.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CloudyForest_Y2.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CloudyForest_Y2.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CloudyForest_Y2.JPG"
    }
   },
   {
@@ -551,7 +614,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/ClrPortrait_TSakai.JPG",
     "goreycastle": "GoreyCastle/ClrPortrait_TSakai.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/ClrPortrait_TSakai.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/ClrPortrait_TSakai.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/ClrPortrait_TSakai.JPG"
    }
   },
   {
@@ -560,7 +624,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Coastal%20Glow_NM.JPG",
     "goreycastle": "GoreyCastle/Coastal%20Glow_NM.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Coastal%20Glow_NM.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Coastal%20Glow_NM.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Coastal%20Glow_NM.JPG"
    }
   },
   {
@@ -569,7 +634,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/ColorSplash_Gilmar.JPG",
     "goreycastle": "GoreyCastle/ColorSplash_Gilmar.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/ColorSplash_Gilmar.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/ColorSplash_Gilmar.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/ColorSplash_Gilmar.JPG"
    }
   },
   {
@@ -578,7 +644,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CozyAutumn_Leno.JPG",
     "goreycastle": "GoreyCastle/CozyAutumn_Leno.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CozyAutumn_Leno.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CozyAutumn_Leno.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CozyAutumn_Leno.JPG"
    }
   },
   {
@@ -587,7 +654,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/CRYSClear_Eisuke.JPG",
     "goreycastle": "GoreyCastle/CRYSClear_Eisuke.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/CRYSClear_Eisuke.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/CRYSClear_Eisuke.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/CRYSClear_Eisuke.JPG"
    }
   },
   {
@@ -596,7 +664,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Cyanora_EyesOfBelga.JPG",
     "goreycastle": "GoreyCastle/Cyanora_EyesOfBelga.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Cyanora_EyesOfBelga.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Cyanora_EyesOfBelga.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Cyanora_EyesOfBelga.JPG"
    }
   },
   {
@@ -605,7 +674,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/DawnHues_Leno.JPG",
     "goreycastle": "GoreyCastle/DawnHues_Leno.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/DawnHues_Leno.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/DawnHues_Leno.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/DawnHues_Leno.JPG"
    }
   },
   {
@@ -614,7 +684,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/DGFilmLook_DannyG.JPG",
     "goreycastle": "GoreyCastle/DGFilmLook_DannyG.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/DGFilmLook_DannyG.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/DGFilmLook_DannyG.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/DGFilmLook_DannyG.JPG"
    }
   },
   {
@@ -623,7 +694,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/EmotionalB%26W_Wazika.JPG",
     "goreycastle": "GoreyCastle/EmotionalB%26W_Wazika.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/EmotionalB%26W_Wazika.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/EmotionalB%26W_Wazika.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/EmotionalB%26W_Wazika.JPG"
    }
   },
   {
@@ -632,7 +704,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/EuroFilmBW_Vincent.JPG",
     "goreycastle": "GoreyCastle/EuroFilmBW_Vincent.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/EuroFilmBW_Vincent.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/EuroFilmBW_Vincent.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/EuroFilmBW_Vincent.JPG"
    }
   },
   {
@@ -641,7 +714,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/FadedBlue_Hinami.JPG",
     "goreycastle": "GoreyCastle/FadedBlue_Hinami.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/FadedBlue_Hinami.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/FadedBlue_Hinami.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/FadedBlue_Hinami.JPG"
    }
   },
   {
@@ -650,7 +724,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Fern_IanHarland.JPG",
     "goreycastle": "GoreyCastle/Fern_IanHarland.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Fern_IanHarland.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Fern_IanHarland.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Fern_IanHarland.JPG"
    }
   },
   {
@@ -659,7 +734,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Filmic_Fabio.JPG",
     "goreycastle": "GoreyCastle/Filmic_Fabio.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Filmic_Fabio.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Filmic_Fabio.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Filmic_Fabio.JPG"
    }
   },
   {
@@ -668,7 +744,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/FilmPop_Leno.JPG",
     "goreycastle": "GoreyCastle/FilmPop_Leno.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/FilmPop_Leno.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/FilmPop_Leno.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/FilmPop_Leno.JPG"
    }
   },
   {
@@ -677,7 +754,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Glow_IanHarland.JPG",
     "goreycastle": "GoreyCastle/Glow_IanHarland.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Glow_IanHarland.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Glow_IanHarland.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Glow_IanHarland.JPG"
    }
   },
   {
@@ -686,7 +764,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/GlowUp_Preston.JPG",
     "goreycastle": "GoreyCastle/GlowUp_Preston.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/GlowUp_Preston.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/GlowUp_Preston.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/GlowUp_Preston.JPG"
    }
   },
   {
@@ -695,7 +774,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Golden_Grid_LKJ.JPG",
     "goreycastle": "GoreyCastle/Golden_Grid_LKJ.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Golden_Grid_LKJ.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Golden_Grid_LKJ.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Golden_Grid_LKJ.JPG"
    }
   },
   {
@@ -704,7 +784,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/GoldenBrownSiinapse.JPG",
     "goreycastle": "GoreyCastle/GoldenBrownSiinapse.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/GoldenBrownSiinapse.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/GoldenBrownSiinapse.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/GoldenBrownSiinapse.JPG"
    }
   },
   {
@@ -713,7 +794,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/GoldenDusk_EmilieH.JPG",
     "goreycastle": "GoreyCastle/GoldenDusk_EmilieH.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/GoldenDusk_EmilieH.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/GoldenDusk_EmilieH.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/GoldenDusk_EmilieH.JPG"
    }
   },
   {
@@ -722,7 +804,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/GoldenHourGlow_DAnn.JPG",
     "goreycastle": "GoreyCastle/GoldenHourGlow_DAnn.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/GoldenHourGlow_DAnn.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/GoldenHourGlow_DAnn.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/GoldenHourGlow_DAnn.JPG"
    }
   },
   {
@@ -731,7 +814,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Green%20Soul_Wong.JPG",
     "goreycastle": "GoreyCastle/Green%20Soul_Wong.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Green%20Soul_Wong.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Green%20Soul_Wong.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Green%20Soul_Wong.JPG"
    }
   },
   {
@@ -740,7 +824,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/HazyMemories_Julia.JPG",
     "goreycastle": "GoreyCastle/HazyMemories_Julia.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/HazyMemories_Julia.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/HazyMemories_Julia.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/HazyMemories_Julia.JPG"
    }
   },
   {
@@ -749,7 +834,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Heartwarming_YoheiS.JPG",
     "goreycastle": "GoreyCastle/Heartwarming_YoheiS.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Heartwarming_YoheiS.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Heartwarming_YoheiS.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Heartwarming_YoheiS.JPG"
    }
   },
   {
@@ -758,7 +844,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Hidamari_Haruka.JPG",
     "goreycastle": "GoreyCastle/Hidamari_Haruka.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Hidamari_Haruka.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Hidamari_Haruka.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Hidamari_Haruka.JPG"
    }
   },
   {
@@ -767,7 +854,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/HKReminisce_Hiuman.JPG",
     "goreycastle": "GoreyCastle/HKReminisce_Hiuman.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/HKReminisce_Hiuman.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/HKReminisce_Hiuman.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/HKReminisce_Hiuman.JPG"
    }
   },
   {
@@ -776,7 +864,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Honey_IanHarland.JPG",
     "goreycastle": "GoreyCastle/Honey_IanHarland.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Honey_IanHarland.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Honey_IanHarland.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Honey_IanHarland.JPG"
    }
   },
   {
@@ -785,7 +874,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/HoneyTale_MASAYA.JPG",
     "goreycastle": "GoreyCastle/HoneyTale_MASAYA.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/HoneyTale_MASAYA.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/HoneyTale_MASAYA.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/HoneyTale_MASAYA.JPG"
    }
   },
   {
@@ -794,7 +884,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/HT%20Harmony_HanaaT.JPG",
     "goreycastle": "GoreyCastle/HT%20Harmony_HanaaT.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/HT%20Harmony_HanaaT.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/HT%20Harmony_HanaaT.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/HT%20Harmony_HanaaT.JPG"
    }
   },
   {
@@ -803,7 +894,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/IndoorHarmony_Julia.JPG",
     "goreycastle": "GoreyCastle/IndoorHarmony_Julia.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/IndoorHarmony_Julia.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/IndoorHarmony_Julia.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/IndoorHarmony_Julia.JPG"
    }
   },
   {
@@ -812,7 +904,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Japanesque_Arashida.JPG",
     "goreycastle": "GoreyCastle/Japanesque_Arashida.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Japanesque_Arashida.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Japanesque_Arashida.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Japanesque_Arashida.JPG"
    }
   },
   {
@@ -821,7 +914,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Kodak%20T-Max%20400.JPG",
     "goreycastle": "GoreyCastle/Kodak%20T-Max%20400.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Kodak%20T-Max%20400.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Kodak%20T-Max%20400.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Kodak%20T-Max%20400.JPG"
    }
   },
   {
@@ -830,7 +924,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Kota-Green_TAKASU.JPG",
     "goreycastle": "GoreyCastle/Kota-Green_TAKASU.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Kota-Green_TAKASU.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Kota-Green_TAKASU.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Kota-Green_TAKASU.JPG"
    }
   },
   {
@@ -839,7 +934,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/MatteBlueGray_tanco.JPG",
     "goreycastle": "GoreyCastle/MatteBlueGray_tanco.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/MatteBlueGray_tanco.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/MatteBlueGray_tanco.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/MatteBlueGray_tanco.JPG"
    }
   },
   {
@@ -848,7 +944,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/MNightBlush_Preston.JPG",
     "goreycastle": "GoreyCastle/MNightBlush_Preston.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/MNightBlush_Preston.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/MNightBlush_Preston.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/MNightBlush_Preston.JPG"
    }
   },
   {
@@ -857,7 +954,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/MoistureGn_HirokiN.JPG",
     "goreycastle": "GoreyCastle/MoistureGn_HirokiN.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/MoistureGn_HirokiN.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/MoistureGn_HirokiN.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/MoistureGn_HirokiN.JPG"
    }
   },
   {
@@ -866,7 +964,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/MoodyGr_BrittanyK.JPG",
     "goreycastle": "GoreyCastle/MoodyGr_BrittanyK.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/MoodyGr_BrittanyK.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/MoodyGr_BrittanyK.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/MoodyGr_BrittanyK.JPG"
    }
   },
   {
@@ -875,7 +974,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/MoodyShadows_Gilmar.JPG",
     "goreycastle": "GoreyCastle/MoodyShadows_Gilmar.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/MoodyShadows_Gilmar.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/MoodyShadows_Gilmar.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/MoodyShadows_Gilmar.JPG"
    }
   },
   {
@@ -884,7 +984,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/MOSS_Nagisa.JPG",
     "goreycastle": "GoreyCastle/MOSS_Nagisa.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/MOSS_Nagisa.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/MOSS_Nagisa.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/MOSS_Nagisa.JPG"
    }
   },
   {
@@ -893,7 +994,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/MovieG%26O_InstantF.JPG",
     "goreycastle": "GoreyCastle/MovieG%26O_InstantF.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/MovieG%26O_InstantF.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/MovieG%26O_InstantF.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/MovieG%26O_InstantF.JPG"
    }
   },
   {
@@ -902,7 +1004,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/MV%20Green%20Orange_Woo.JPG",
     "goreycastle": "GoreyCastle/MV%20Green%20Orange_Woo.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/MV%20Green%20Orange_Woo.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/MV%20Green%20Orange_Woo.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/MV%20Green%20Orange_Woo.JPG"
    }
   },
   {
@@ -911,7 +1014,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Nature_Links.JPG",
     "goreycastle": "GoreyCastle/Nature_Links.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Nature_Links.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Nature_Links.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Nature_Links.JPG"
    }
   },
   {
@@ -920,7 +1024,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/NeonGlow_BrandonW.JPG",
     "goreycastle": "GoreyCastle/NeonGlow_BrandonW.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/NeonGlow_BrandonW.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/NeonGlow_BrandonW.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/NeonGlow_BrandonW.JPG"
    }
   },
   {
@@ -929,7 +1034,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/NightsLike_Dondre.JPG",
     "goreycastle": "GoreyCastle/NightsLike_Dondre.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/NightsLike_Dondre.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/NightsLike_Dondre.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/NightsLike_Dondre.JPG"
    }
   },
   {
@@ -938,7 +1044,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/PainterlyLight_DAnn.JPG",
     "goreycastle": "GoreyCastle/PainterlyLight_DAnn.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/PainterlyLight_DAnn.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/PainterlyLight_DAnn.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/PainterlyLight_DAnn.JPG"
    }
   },
   {
@@ -947,7 +1054,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Pale%20Tale_Yuri.JPG",
     "goreycastle": "GoreyCastle/Pale%20Tale_Yuri.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Pale%20Tale_Yuri.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Pale%20Tale_Yuri.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Pale%20Tale_Yuri.JPG"
    }
   },
   {
@@ -956,7 +1064,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/PastelNos_TSakai.JPG",
     "goreycastle": "GoreyCastle/PastelNos_TSakai.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/PastelNos_TSakai.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/PastelNos_TSakai.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/PastelNos_TSakai.JPG"
    }
   },
   {
@@ -965,7 +1074,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Pastelpink_Yuki.JPG",
     "goreycastle": "GoreyCastle/Pastelpink_Yuki.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Pastelpink_Yuki.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Pastelpink_Yuki.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Pastelpink_Yuki.JPG"
    }
   },
   {
@@ -974,7 +1084,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/PinkWater_HYEYA.JPG",
     "goreycastle": "GoreyCastle/PinkWater_HYEYA.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/PinkWater_HYEYA.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/PinkWater_HYEYA.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/PinkWater_HYEYA.JPG"
    }
   },
   {
@@ -983,7 +1094,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/PrimaryPop_Gilmar.JPG",
     "goreycastle": "GoreyCastle/PrimaryPop_Gilmar.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/PrimaryPop_Gilmar.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/PrimaryPop_Gilmar.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/PrimaryPop_Gilmar.JPG"
    }
   },
   {
@@ -992,7 +1104,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/PurpleM_LUIZCLAS.JPG",
     "goreycastle": "GoreyCastle/PurpleM_LUIZCLAS.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/PurpleM_LUIZCLAS.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/PurpleM_LUIZCLAS.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/PurpleM_LUIZCLAS.JPG"
    }
   },
   {
@@ -1001,7 +1114,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/QUIET_Nagisa.JPG",
     "goreycastle": "GoreyCastle/QUIET_Nagisa.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/QUIET_Nagisa.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/QUIET_Nagisa.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/QUIET_Nagisa.JPG"
    }
   },
   {
@@ -1010,7 +1124,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/RedM_LUIZCLAS.JPG",
     "goreycastle": "GoreyCastle/RedM_LUIZCLAS.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/RedM_LUIZCLAS.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/RedM_LUIZCLAS.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/RedM_LUIZCLAS.JPG"
    }
   },
   {
@@ -1019,7 +1134,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/RoseOldFilm_hinano.JPG",
     "goreycastle": "GoreyCastle/RoseOldFilm_hinano.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/RoseOldFilm_hinano.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/RoseOldFilm_hinano.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/RoseOldFilm_hinano.JPG"
    }
   },
   {
@@ -1028,7 +1144,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SetouchiBlue_Noci.JPG",
     "goreycastle": "GoreyCastle/SetouchiBlue_Noci.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SetouchiBlue_Noci.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SetouchiBlue_Noci.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SetouchiBlue_Noci.JPG"
    }
   },
   {
@@ -1037,7 +1154,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/ShadeFall_BrittanyK.JPG",
     "goreycastle": "GoreyCastle/ShadeFall_BrittanyK.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/ShadeFall_BrittanyK.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/ShadeFall_BrittanyK.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/ShadeFall_BrittanyK.JPG"
    }
   },
   {
@@ -1046,7 +1164,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SkyMistFilm_hinano.JPG",
     "goreycastle": "GoreyCastle/SkyMistFilm_hinano.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SkyMistFilm_hinano.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SkyMistFilm_hinano.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SkyMistFilm_hinano.JPG"
    }
   },
   {
@@ -1055,7 +1174,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Soft%20Vivid_Vijay.JPG",
     "goreycastle": "GoreyCastle/Soft%20Vivid_Vijay.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Soft%20Vivid_Vijay.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Soft%20Vivid_Vijay.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Soft%20Vivid_Vijay.JPG"
    }
   },
   {
@@ -1064,7 +1184,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SoftFilm_Leno.JPG",
     "goreycastle": "GoreyCastle/SoftFilm_Leno.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SoftFilm_Leno.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SoftFilm_Leno.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SoftFilm_Leno.JPG"
    }
   },
   {
@@ -1073,7 +1194,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SoftGlow_Harpreet.JPG",
     "goreycastle": "GoreyCastle/SoftGlow_Harpreet.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SoftGlow_Harpreet.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SoftGlow_Harpreet.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SoftGlow_Harpreet.JPG"
    }
   },
   {
@@ -1082,7 +1204,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SummerShine_Dondre.JPG",
     "goreycastle": "GoreyCastle/SummerShine_Dondre.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SummerShine_Dondre.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SummerShine_Dondre.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SummerShine_Dondre.JPG"
    }
   },
   {
@@ -1091,7 +1214,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Summertime_Zerletti.JPG",
     "goreycastle": "GoreyCastle/Summertime_Zerletti.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Summertime_Zerletti.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Summertime_Zerletti.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Summertime_Zerletti.JPG"
    }
   },
   {
@@ -1100,7 +1224,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SunkissedCool_Julia.JPG",
     "goreycastle": "GoreyCastle/SunkissedCool_Julia.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SunkissedCool_Julia.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SunkissedCool_Julia.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SunkissedCool_Julia.JPG"
    }
   },
   {
@@ -1109,7 +1234,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SunkissedWarm_Julia.JPG",
     "goreycastle": "GoreyCastle/SunkissedWarm_Julia.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SunkissedWarm_Julia.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SunkissedWarm_Julia.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SunkissedWarm_Julia.JPG"
    }
   },
   {
@@ -1118,7 +1244,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SunlightHappy_DAnn.JPG",
     "goreycastle": "GoreyCastle/SunlightHappy_DAnn.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SunlightHappy_DAnn.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SunlightHappy_DAnn.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SunlightHappy_DAnn.JPG"
    }
   },
   {
@@ -1127,7 +1254,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SunsetFilm_JKBoy.JPG",
     "goreycastle": "GoreyCastle/SunsetFilm_JKBoy.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SunsetFilm_JKBoy.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SunsetFilm_JKBoy.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SunsetFilm_JKBoy.JPG"
    }
   },
   {
@@ -1136,7 +1264,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SunsetGlow_Mikan.JPG",
     "goreycastle": "GoreyCastle/SunsetGlow_Mikan.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SunsetGlow_Mikan.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SunsetGlow_Mikan.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SunsetGlow_Mikan.JPG"
    }
   },
   {
@@ -1145,7 +1274,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/SunsetReset_Baek.JPG",
     "goreycastle": "GoreyCastle/SunsetReset_Baek.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/SunsetReset_Baek.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/SunsetReset_Baek.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/SunsetReset_Baek.JPG"
    }
   },
   {
@@ -1154,7 +1284,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/T%26O_BrandonW.JPG",
     "goreycastle": "GoreyCastle/T%26O_BrandonW.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/T%26O_BrandonW.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/T%26O_BrandonW.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/T%26O_BrandonW.JPG"
    }
   },
   {
@@ -1163,7 +1294,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/TenderClear_FukaK.JPG",
     "goreycastle": "GoreyCastle/TenderClear_FukaK.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/TenderClear_FukaK.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/TenderClear_FukaK.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/TenderClear_FukaK.JPG"
    }
   },
   {
@@ -1172,7 +1304,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/TexturedDocmntry_MS.JPG",
     "goreycastle": "GoreyCastle/TexturedDocmntry_MS.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/TexturedDocmntry_MS.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/TexturedDocmntry_MS.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/TexturedDocmntry_MS.JPG"
    }
   },
   {
@@ -1181,7 +1314,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Turquoise_Blue_Yuki.JPG",
     "goreycastle": "GoreyCastle/Turquoise_Blue_Yuki.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Turquoise_Blue_Yuki.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Turquoise_Blue_Yuki.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Turquoise_Blue_Yuki.JPG"
    }
   },
   {
@@ -1190,7 +1324,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/USAFilmBW_Vincent.JPG",
     "goreycastle": "GoreyCastle/USAFilmBW_Vincent.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/USAFilmBW_Vincent.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/USAFilmBW_Vincent.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/USAFilmBW_Vincent.JPG"
    }
   },
   {
@@ -1199,7 +1334,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Vibrant_Lamoureux.JPG",
     "goreycastle": "GoreyCastle/Vibrant_Lamoureux.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Vibrant_Lamoureux.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Vibrant_Lamoureux.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Vibrant_Lamoureux.JPG"
    }
   },
   {
@@ -1208,7 +1344,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/VINTAGE_FILM_Ludwig.JPG",
     "goreycastle": "GoreyCastle/VINTAGE_FILM_Ludwig.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/VINTAGE_FILM_Ludwig.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/VINTAGE_FILM_Ludwig.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/VINTAGE_FILM_Ludwig.JPG"
    }
   },
   {
@@ -1217,7 +1354,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/VintageA_BrittanyK.JPG",
     "goreycastle": "GoreyCastle/VintageA_BrittanyK.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/VintageA_BrittanyK.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/VintageA_BrittanyK.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/VintageA_BrittanyK.JPG"
    }
   },
   {
@@ -1226,7 +1364,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/VINTAGEFla_Fuji.JPG",
     "goreycastle": "GoreyCastle/VINTAGEFla_Fuji.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/VINTAGEFla_Fuji.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/VINTAGEFla_Fuji.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/VINTAGEFla_Fuji.JPG"
    }
   },
   {
@@ -1235,7 +1374,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/VintageM_TSakai.JPG",
     "goreycastle": "GoreyCastle/VintageM_TSakai.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/VintageM_TSakai.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/VintageM_TSakai.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/VintageM_TSakai.JPG"
    }
   },
   {
@@ -1244,7 +1384,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/VINTAGEPort_Fuji.JPG",
     "goreycastle": "GoreyCastle/VINTAGEPort_Fuji.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/VINTAGEPort_Fuji.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/VINTAGEPort_Fuji.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/VINTAGEPort_Fuji.JPG"
    }
   },
   {
@@ -1253,7 +1394,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/VintageTouch_Amy.JPG",
     "goreycastle": "GoreyCastle/VintageTouch_Amy.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/VintageTouch_Amy.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/VintageTouch_Amy.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/VintageTouch_Amy.JPG"
    }
   },
   {
@@ -1262,7 +1404,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/VintageVibe_Preston.JPG",
     "goreycastle": "GoreyCastle/VintageVibe_Preston.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/VintageVibe_Preston.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/VintageVibe_Preston.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/VintageVibe_Preston.JPG"
    }
   },
   {
@@ -1271,7 +1414,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/VitalityFilm_Pmango.JPG",
     "goreycastle": "GoreyCastle/VitalityFilm_Pmango.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/VitalityFilm_Pmango.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/VitalityFilm_Pmango.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/VitalityFilm_Pmango.JPG"
    }
   },
   {
@@ -1280,7 +1424,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Warm%20Street_Ben.JPG",
     "goreycastle": "GoreyCastle/Warm%20Street_Ben.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Warm%20Street_Ben.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Warm%20Street_Ben.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Warm%20Street_Ben.JPG"
    }
   },
   {
@@ -1289,7 +1434,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/WarmDimLight_Luna.JPG",
     "goreycastle": "GoreyCastle/WarmDimLight_Luna.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/WarmDimLight_Luna.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/WarmDimLight_Luna.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/WarmDimLight_Luna.JPG"
    }
   },
   {
@@ -1298,7 +1444,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/WarmPortrait_Y2.JPG",
     "goreycastle": "GoreyCastle/WarmPortrait_Y2.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/WarmPortrait_Y2.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/WarmPortrait_Y2.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/WarmPortrait_Y2.JPG"
    }
   },
   {
@@ -1307,7 +1454,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/WarmtonedPtt_Wazika.JPG",
     "goreycastle": "GoreyCastle/WarmtonedPtt_Wazika.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/WarmtonedPtt_Wazika.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/WarmtonedPtt_Wazika.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/WarmtonedPtt_Wazika.JPG"
    }
   },
   {
@@ -1316,7 +1464,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Winter%20Hues_Eeva.JPG",
     "goreycastle": "GoreyCastle/Winter%20Hues_Eeva.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Winter%20Hues_Eeva.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Winter%20Hues_Eeva.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Winter%20Hues_Eeva.JPG"
    }
   },
   {
@@ -1325,7 +1474,8 @@
    "files": {
     "golfcoursesunrise": "GolfCourseSunrise/Yuragi_Hinami.JPG",
     "goreycastle": "GoreyCastle/Yuragi_Hinami.JPG",
-    "grouvillesunrise": "GrouvilleSunrise/Yuragi_Hinami.JPG"
+    "grouvillesunrise": "GrouvilleSunrise/Yuragi_Hinami.JPG",
+    "grouvillesunrise-02": "GrouvilleSunrise_02/Yuragi_Hinami.JPG"
    }
   }
  ]
