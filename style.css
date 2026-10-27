@@ -84,3 +84,9 @@ h1{font-size:15px; font-weight:600; margin:0; letter-spacing:.02em}
   #lb-prev{left:6px} #lb-next{right:6px}
   .strip-tile img{width:76px}
 }
+
+.intro{
+  max-width:70ch; margin:6px 0 12px;
+  color:var(--dim); font-size:12.5px; line-height:1.5;
+}
+.intro em{color:var(--fg); font-style:normal}
